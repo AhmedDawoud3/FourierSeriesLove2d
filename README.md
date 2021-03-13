@@ -1,3 +1,3 @@
 # FourierSeriesLove2d
 
-Fourier Series using Love2D engine 
+Fourier Series using LÖVE 2D engine 
